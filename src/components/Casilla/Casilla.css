@@ -1,0 +1,15 @@
+.casilla{
+  
+    border: 3px solid rgb(106, 213, 255);
+    
+    max-width: 100px;
+    max-height: 100px;
+    opacity: 0.5;
+    
+  
+  }
+  .casilla:hover{
+    background-color: white;
+    opacity: 1;
+    transform: scale(1.1);
+  }
